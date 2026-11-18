@@ -1,48 +1,42 @@
 ![bielina](banner.png)
 
-hi, i'm paulina ♡
+# hi, i'm paulina ♡
 
-soft aesthetic. sharp logic.
+*soft aesthetic. sharp logic.*
 
-warsaw-based, with a background in computer science and hands-on experience in data analysis, reporting & automation.
+warsaw-based, with hands-on experience in **data analysis, reporting & automation**.
 
 i like turning messy data into something useful — and making it look good along the way.
 
-01 / the toolkit
+---
 
-working with
-"SQL" · "Excel" · "VBA" · "Access"
+### 01 / the toolkit
 
-currently exploring
-"Power BI" · "DAX" · "ERP systems"
+**data & analytics**
 
-02 / what i'm building
+![SQL](https://img.shields.io/badge/SQL-18121D?style=for-the-badge&logo=postgresql&logoColor=F5B2D3)
+![Excel](https://img.shields.io/badge/Excel-18121D?style=for-the-badge&logo=microsoftexcel&logoColor=F5B2D3)
+![VBA](https://img.shields.io/badge/VBA-18121D?style=for-the-badge&logoColor=F5B2D3)
+![Access](https://img.shields.io/badge/Access-18121D?style=for-the-badge&logo=microsoftaccess&logoColor=F5B2D3)
 
-✧ business intelligence dashboards
-✧ SQL analysis & data quality projects
-✧ reporting automation
-✧ practical solutions for everyday problems
+**currently exploring**
 
-03 / let's connect
-
-open to junior opportunities in data analytics, BI & reporting.
-
-📍 warsaw, poland
+`Power BI` · `DAX` · `ERP systems`
 
 ---
 
-data looks better in pink. ✧
-<!--
-**bielina/bielina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 02 / what i'm building
 
-Here are some ideas to get you started:
+- ✧ business intelligence dashboards
+- ✧ SQL analysis & data quality projects
+- ✧ reporting automation
+- ✧ practical solutions for everyday problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 03 / let's connect
+
+📍 **warsaw, poland**
+
+open to junior opportunities in **data analytics, BI & reporting**.
+  
