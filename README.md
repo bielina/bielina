@@ -1,3 +1,5 @@
+![bielina](banner.png)
+
 hi, i'm paulina ♡
 
 soft aesthetic. sharp logic.
