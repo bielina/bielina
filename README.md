@@ -1,3 +1,4 @@
+
 ![bielina](banner.png)
 
 # hi, i'm paulina ♡
@@ -29,14 +30,35 @@ i like turning messy data into something useful — and making it look good alon
 
 - ✧ business intelligence dashboards
 - ✧ SQL analysis & data quality projects
-- ✧ reporting automation
+- ✧ reporting automation with Excel & VBA
 - ✧ practical solutions for everyday problems
+
+*first projects coming soon... ♡*
 
 ---
 
-### 03 / let's connect
+### 03 / experience.exe
+
+**data analysis & reporting intern**  
+*PKP S.A. · Warsaw, Poland*
+
+- ✧ prepared analytical reports and summaries using Excel
+- ✧ worked with datasets containing 10,000+ rows
+- ✧ built dashboards using PivotTables and charts
+- ✧ developed VBA macros to automate repetitive reporting tasks
+- ✧ validated data and identified reporting discrepancies
+- ✧ worked with Microsoft Access and gained exposure to SAP
+
+**tools:** `Excel` · `VBA` · `Access` · `Microsoft 365`
+
+---
+
+### 04 / let's connect
 
 📍 **warsaw, poland**
 
-open to junior opportunities in **data analytics, BI & reporting**.
-  
+[♡ find me on LinkedIn](https://www.linkedin.com/in/bielecka-paulina)
+
+open to junior opportunities in **data analytics, BI, reporting & ERP**.
+
+*let's make data look good together. ✧*
